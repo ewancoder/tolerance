@@ -1,0 +1,28 @@
+Outer diameter (shaft):
+Tolerance (e.g. h 8):
+Build tolerance
+Sync diameters
+Outer
+Inner
+Inner diameter (hole):
+Tolerance (e.g. H 8):
+Build tolerance
+Autoscaling
+Scaling
+Shaft deviation
+Hole deviation
+Shaft qualitet
+Hole qualitet
+Shaft size
+Hole size
+Build-tolerance program
+Settings
+Language
+English
+Russian
+Another (from file)
+Apply
+Min. deviation:
+Max deviation:
+Shaft:
+Hole:
